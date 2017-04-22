@@ -1,0 +1,39 @@
+*.py[cod]
+nohup.out
+env
+
+# C extensions
+*.so
+
+# VI swap files
+*.swp
+*.swo
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+htmlcov
+
+# Mr Developer
+.project
+.pydevproject
+.cache
+
